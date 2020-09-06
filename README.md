@@ -1,4 +1,3 @@
-### Assignments-CaseStudies
 ### Investment Analysis
 ### Problem Statement
 As an asset management company,we want to make investments in a few companies. We want to understand the global trends in investments so that we can take the investment decisions effectively. 
