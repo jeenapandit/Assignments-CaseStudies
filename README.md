@@ -1,4 +1,4 @@
-## LENDING CLUB CASE STUDY
+## LENDING CLUB CASE STUDY
 Group Members
 Member 1: Dewesh Kumar Dubey 
 Member 2: Jeena Pandit
@@ -25,4 +25,4 @@ Loan Amount to Annual Income ratio
 Credit Line history
 Grade
 Open Account to Total account ratio
-Instalment to loan term ratio
+Installment to loan term ratio
