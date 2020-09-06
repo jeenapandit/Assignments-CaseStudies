@@ -21,8 +21,8 @@ So, performed different kind of analysis on Customer attributes and Loan attribu
 ## Conclusions
 Most important driving factors for loan default :
 
-Loan Amount to Annual Income ratio
-Credit Line history
-Grade
-Open Account to Total account ratio
-Installment to loan term ratio
+- Loan Amount to Annual Income ratio
+- Credit Line history
+- Grade
+- Open Account to Total account ratio
+- Installment to loan term ratio
